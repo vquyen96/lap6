@@ -1,0 +1,106 @@
+*{
+	font-family: Tahoma,arial;
+	font-size: 15px;
+}
+body{
+	margin:0 12%;
+}
+header{
+	height: 70px;
+	background: #d2eaff;
+	width:100%;
+	margin-bottom: 20px;
+}
+.logo{
+	float:left;
+}
+.logo img{
+	width: 60px;
+	float:left;
+	margin-left: 20px;
+}
+.logo-text{
+	float: left;
+	margin:20px 20px;
+	font-weight: bold;
+	font-size: 24px;
+	color: #fff;
+}
+.menu{
+	float:right;
+}
+ul li{
+	float: right;
+	margin: 10px;
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+.text{
+	width:30%;
+	float:left;
+	height: 300px;
+	background: #ff9900;
+	margin:10px;
+	display: inline-block;
+}
+section{
+	width: 65%;
+	float: left;
+}
+.ads img{
+	width: 100%;
+}
+.new{
+	background: #f2f6ff;
+	margin: 20px 0;
+	padding: 10px 5px 20px;
+	clear: both;
+
+}
+.name span{
+	background :#f90;
+	color: #fff;
+	padding:10px;
+	margin:20px 30px;
+}
+.big{
+	background: #fff;
+	float: left;
+	width: 65%;
+	margin-top: 20px;
+	padding: 5px;
+}
+.big img{
+	float: left;
+	width: 120px;
+	margin-right:10px;
+}
+.small{
+	
+	margin:30px;
+}
+.small img{
+	float: left;
+	width: 50px;
+	margin:0 10px;
+}
+aside{
+	
+}
+aside img{
+	width: 30%;
+	margin-left: 5%;
+	margin-bottom: 30px;
+}
+.clear-both{
+	clear: both;
+}
+footer{
+	background: #95afd0;
+	height: 50px;
+	line-height: 50px;
+	color: #FFF;
+	text-align: center;
+}
