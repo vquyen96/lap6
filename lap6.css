@@ -1,0 +1,88 @@
+*{
+	margin: 0;
+	padding:0;
+	
+	
+}
+body{
+	width: 80%;
+	margin:0 10%;
+
+}
+header{
+	top:0;
+	width:  80%;
+	height: 100px;
+	background: #a5f7ff;
+	position: fixed;
+	border-radius: 0 0 20px 20px;
+	
+	
+}
+header:hover{
+	background: #f0f;
+}
+.logo{
+	
+}
+.logo img{
+	width:80px;
+	float: left;
+}
+.logo h1{
+	padding-top: 30px;
+	float: left;
+	
+}
+.logo h1:hover{
+	padding-left: 200px;
+}
+.menu ul li{
+	float: right;
+	margin:40px 10px;
+	list-style: none;
+}
+nav{
+	background: #36a7a7;
+	padding: 10px;
+	margin: 120px 0 20px;
+	color: #fff;
+	top: 100px;
+	clear: both;
+	border:1px solid #000;
+	border-radius: 20px;
+}
+blockquote{
+	text-align: center;
+	font-style: italic;
+	font-size: 20px;
+	margin: 20px;
+}
+.who{
+	text-align:right;
+	padding:20px;
+}
+section{
+	clear: both;
+	width: 30%;
+	height: 200px;
+	display: inline-block;
+	margin:10px 5px 10px;
+	padding: 10px;
+	border:1px solid #000;
+	border-radius: 20px;
+	overflow: auto;
+
+}
+section:hover{
+
+}
+section h3{
+	margin:5px;
+}
+footer{
+	height: 70px;
+	line-height: 70px;
+	background: #9e9dea;
+	border-radius: 20px 20px 5px 5px;
+}
